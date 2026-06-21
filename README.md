@@ -15,9 +15,6 @@ A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScri
 -  **Fast Performance** - Optimized API calls with parallel fetching
 -  **386 Pokémon** - Covers Generations I-III by default
 
-## 🚀 Live Demo
-
-[View Live Demo](https://yourusername.github.io/pokedex) <!-- Add your deployed link here -->
 
 ## 📸 Screenshots
 
