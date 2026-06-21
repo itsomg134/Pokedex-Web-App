@@ -1,6 +1,3 @@
-Here's a professional GitHub README for your Pokédex project:
-
-```markdown
 # 🎮 Pokédex Web App
 
 A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScript. Browse, search, and explore Pokémon with a sleek glassmorphism UI design.
