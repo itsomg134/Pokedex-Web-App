@@ -92,7 +92,7 @@ pokedex/
 - **Error Handling** - Graceful fallbacks for failed API requests
 - **Accessibility** - Semantic HTML and ARIA-friendly structure
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -110,7 +110,7 @@ Contributions are welcome! Here's how you can help:
 - Add dark/light theme switch
 - Implement infinite scroll
 
-## 📝 API Reference
+## API Reference
 
 This project uses the [PokéAPI](https://pokeapi.co/docs/v2):
 - `GET /pokemon?limit=386` - Fetch Pokémon list
