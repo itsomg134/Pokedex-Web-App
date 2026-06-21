@@ -56,7 +56,7 @@ No build tools or dependencies required! 🎉
 3. **View Details** - Each card shows the Pokémon's image, ID number, and types
 4. **Clear Search** - Empty the search field to reset and view all Pokémon
 
-## 🎨 Customization
+## Customization
 
 ### Change Pokémon Limit
 Edit line ~230 in `index.html`:
@@ -73,7 +73,7 @@ The CSS uses custom type colors in lines ~134-150:
 /* Add or modify type colors here */
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 pokedex/
