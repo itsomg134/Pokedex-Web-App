@@ -1,19 +1,19 @@
-# 🎮 Pokédex Web App
+# Pokédex Web App
 
 A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScript. Browse, search, and explore Pokémon with a sleek glassmorphism UI design.
 
 ![Pokédex Preview](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
 
-## ✨ Features
+##  Features
 
-- 🔍 **Real-time Search** - Find Pokémon by name instantly
-- 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile
-- 🎨 **Glassmorphism UI** - Modern frosted glass aesthetic with gradient backgrounds
-- 🖼️ **High-Quality Artwork** - Official Pokémon artwork for each entry
-- 🏷️ **Type Badges** - Color-coded type indicators (Fire, Water, Grass, etc.)
-- 📄 **Pagination** - Browse through Pokémon with smooth page navigation
-- ⚡ **Fast Performance** - Optimized API calls with parallel fetching
-- 🎯 **386 Pokémon** - Covers Generations I-III by default
+-  **Real-time Search** - Find Pokémon by name instantly
+-  **Responsive Design** - Works perfectly on desktop, tablet, and mobile
+-  **Glassmorphism UI** - Modern frosted glass aesthetic with gradient backgrounds
+-  **High-Quality Artwork** - Official Pokémon artwork for each entry
+-  **Type Badges** - Color-coded type indicators (Fire, Water, Grass, etc.)
+-  **Pagination** - Browse through Pokémon with smooth page navigation
+-  **Fast Performance** - Optimized API calls with parallel fetching
+-  **386 Pokémon** - Covers Generations I-III by default
 
 ## 🚀 Live Demo
 
