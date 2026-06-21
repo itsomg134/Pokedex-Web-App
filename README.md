@@ -84,7 +84,7 @@ pokedex/
 └── README.md           # Project documentation
 ```
 
-## 🌟 Key Implementation Details
+## Key Implementation Details
 
 - **Parallel Data Fetching** - Uses `Promise.all()` to fetch multiple Pokémon details simultaneously
 - **Client-Side Filtering** - Search happens instantly without additional API calls
