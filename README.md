@@ -16,6 +16,7 @@ A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScri
 -  **386 Pokémon** - Covers Generations I-III by default
 
 
+<img width="1873" height="1235" alt="image" src="https://github.com/user-attachments/assets/b0940e05-7e09-4105-85ae-1bb0110e2bbf" />
 
 ## 🛠️ Technologies Used
 
