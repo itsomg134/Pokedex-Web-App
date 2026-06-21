@@ -47,7 +47,7 @@ A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScri
    # Or just double-click index.html
    ```
 
-No build tools or dependencies required! 🎉
+No build tools or dependencies required!
 
 ## Usage
 
