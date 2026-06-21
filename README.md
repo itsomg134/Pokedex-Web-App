@@ -125,29 +125,3 @@ This project uses the [PokéAPI](https://pokeapi.co/docs/v2):
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [PokéAPI](https://pokeapi.co/) for the comprehensive Pokémon database
-- [Font Awesome](https://fontawesome.com/) for icons
-- Nintendo, Game Freak, and The Pokémon Company for creating Pokémon
-
----
-
-<p align="center">
-  <b>Gotta Catch 'Em All!</b> ⚡
-</p>
-
-<p align="center">
-  Made with ❤️ by [Your Name]
-</p>
-```
-
-To use this README:
-
-1. **Replace placeholders**: Update `yourusername`, `Your Name`, and add your deployed link
-2. **Add screenshots**: Create a `screenshots` folder and add actual screenshots of your app
-3. **Customize**: Adjust any sections to match your specific implementation
-4. **Add license**: Create a `LICENSE` file if you want to specify one
-
-The README provides comprehensive documentation that will help other developers understand, use, and contribute to your Pokédex project!
