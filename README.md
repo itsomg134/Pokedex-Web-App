@@ -116,7 +116,7 @@ This project uses the [PokéAPI](https://pokeapi.co/docs/v2):
 - `GET /pokemon?limit=386` - Fetch Pokémon list
 - `GET /pokemon/{name}` - Fetch individual Pokémon details
 
-## 🐛 Known Issues
+## Known Issues
 
 - Some Pokémon may have missing artwork (falls back to sprite)
 - Rate limiting may occur with very large lists
