@@ -49,7 +49,7 @@ A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScri
 
 No build tools or dependencies required! 🎉
 
-## 🎯 Usage
+## Usage
 
 1. **Browse Pokémon** - Scroll through the grid or use pagination buttons
 2. **Search** - Type a Pokémon name in the search bar and press Enter or click "Find"
