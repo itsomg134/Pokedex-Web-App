@@ -122,6 +122,6 @@ This project uses the [PokéAPI](https://pokeapi.co/docs/v2):
 - Rate limiting may occur with very large lists
 - Mobile performance may vary on older devices
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
