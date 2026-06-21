@@ -27,7 +27,7 @@ A modern, responsive Pokédex website built with vanilla HTML, CSS, and JavaScri
 - **Font Awesome 6** - Icon library
 - **Google Fonts** - Inter typeface
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
